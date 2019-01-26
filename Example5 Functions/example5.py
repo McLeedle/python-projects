@@ -1,6 +1,8 @@
 # this is our fifth python lesson example showing what we've learned with functions
 import math
 
+print "Welcome to our example!"
+
 
 def sqroot():
     """returns the square root of the user's number"""
@@ -11,7 +13,6 @@ def sqroot():
         print "You must enter a number!"
 
 
-print "Welcome to our example!"
 sqroot()
 
 print "What you just saw was outputted from a function in our program!"
