@@ -2,6 +2,7 @@
 import math
 
 print "Welcome to our example!"
+print "In this example we will output to the console from functions"
 
 
 def sqroot():
